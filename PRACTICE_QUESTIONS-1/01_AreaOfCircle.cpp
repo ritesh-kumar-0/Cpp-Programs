@@ -7,7 +7,7 @@ int main(){
     float radius , area;  // declare variables 
 
     cout << "Enter ratius : ";  
-    cin >> radius;   // take user  as input
+    cin >> radius;   // Take user  as input
 
     area = 3.14 * radius * radius;  // Formula
     cout << "Area of circle = " <<area;
